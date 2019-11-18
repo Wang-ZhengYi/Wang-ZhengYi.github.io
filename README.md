@@ -1,4 +1,4 @@
-## Welcome to HII's Univers
+## Welcome to HII's Universe
 
 This is [My GitHub homepage](https://github.com/Wang-ZhengYi)
 
