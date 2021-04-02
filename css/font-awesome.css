@@ -5,6 +5,14 @@
 /* FONT PATH
  * -------------------------- */
 @font-face {
+  font-family: 'JQT';   /*字体名称*/
+  src: url('启功体字体.TTF');       /*字体源文件*/
+}
+@font-face {
+  font-family: 'MZD';   /*字体名称*/
+  src: url('草檀斋毛泽东字体.TTF');       /*字体源文件*/
+}
+@font-face {
   font-family: 'FontAwesome';
   src: url('../fonts/fontawesome-webfont.eot?v=4.2.0');
   src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.2.0') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff?v=4.2.0') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.2.0') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.2.0#fontawesomeregular') format('svg');
