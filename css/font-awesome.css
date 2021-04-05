@@ -9,6 +9,10 @@
   src: url('启功体字体.TTF');       /*字体源文件*/
 }
 @font-face {
+  font-family: 'Castelar';   /*字体名称*/
+  src: url('CASTELAR.TTF');       /*字体源文件*/
+}
+@font-face {
   font-family: 'MZD';   /*字体名称*/
   src: url('草檀斋毛泽东字体.TTF');       /*字体源文件*/
 }
