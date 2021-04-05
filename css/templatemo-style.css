@@ -477,13 +477,15 @@ h3.profile-title {
 }
 
 .project-item {
-  width: 100%;
+  width: 400;
+  height: 400;
   margin-bottom: 2px;
   overflow: hidden;
   position: relative;
 }
 .project-item img {
-  width: 100%;
+  width: 400;
+  height: 400;
   display: block;
 }
 .project-item:hover .project-hover {
