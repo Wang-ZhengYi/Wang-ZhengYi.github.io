@@ -485,7 +485,7 @@ h3.profile-title {
   box-shadow: 10px 10px 5px #888888
 }
 .project-item img {
-  width: 100%;
+  width: 300px;
   margin: 0 auto;
   position: relative;
   top: 50%;
@@ -499,8 +499,8 @@ h3.profile-title {
 
 .project-hover {
   position: absolute;
-  width: 100%;
-  height: 100%;
+  width: 300px;
+  height: 300px;
   top: 40px;
   left: 40px;
   background: rgba(0, 0, 0, 0.9);
