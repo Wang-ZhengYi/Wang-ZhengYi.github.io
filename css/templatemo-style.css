@@ -482,6 +482,7 @@ h3.profile-title {
   margin-bottom: 2px;
   overflow: hidden;
   position: absolute;
+  border:1px solid #000000
 }
 .project-item img {
   width: 100%;
