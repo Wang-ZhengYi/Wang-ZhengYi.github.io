@@ -471,7 +471,7 @@ h3.profile-title {
   margin-top: 40px;
 }
 .projects-holder .col-md-3,
-.projects-holder .col-md-4 {
+.projects-holder .col-md-3 {
   padding-right: 1px;
   padding-left: 1px;
 }
@@ -481,8 +481,8 @@ h3.profile-title {
   height: 300px;
   margin-bottom: 2px;
   overflow: hidden;
-  position: absolute;
-  border:1px solid #000000
+  position: relative;
+  border:3px ridge #000000
 }
 .project-item img {
   width: 100%;
